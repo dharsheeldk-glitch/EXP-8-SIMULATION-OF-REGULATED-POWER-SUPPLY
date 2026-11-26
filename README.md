@@ -33,7 +33,9 @@ Procedure
 ________________________________________
 Observation
 
-
+<img width="1533" height="787" alt="Screenshot 2026-11-26 095057" src="https://github.com/user-attachments/assets/17a7d16a-5044-4dcd-b3df-e7632ed6b451" />
+graph:
+<img width="1031" height="292" alt="image" src="https://github.com/user-attachments/assets/696e374b-bf87-4691-b100-9deb20163b4d" />
 
 
 1. AC Input Waveform
